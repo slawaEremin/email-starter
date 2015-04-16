@@ -1,3 +1,3 @@
-# Starter template
+# Email starter template
 
-With browsersync, less and build task;
+With browsersync, nodemailer, assemble(static generator) build on top of emailboilerplatetemplate
